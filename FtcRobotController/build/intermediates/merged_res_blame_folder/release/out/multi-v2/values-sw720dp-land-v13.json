@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.qualcomm.ftcrobotcontroller.FtcRobotController-mergeReleaseResources-14:/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\varun\\road-runner-quickstart\\FtcRobotController\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "1888",
+                        "endColumns": "58",
+                        "endOffsets": "1942"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.qualcomm.ftcrobotcontroller.FtcRobotController-merged_res-16:/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\varun\\road-runner-quickstart\\FtcRobotController\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "1888",
+                        "endColumns": "58",
+                        "endOffsets": "1942"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

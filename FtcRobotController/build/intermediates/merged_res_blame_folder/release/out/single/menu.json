@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.qualcomm.ftcrobotcontroller.FtcRobotController-merged_res-16:/menu/menu_server.xml",
+        "source": "com.qualcomm.ftcrobotcontroller.FtcRobotController-jetified-Blocks-8.1.1-8:/menu/menu_server.xml"
+    },
+    {
+        "merged": "com.qualcomm.ftcrobotcontroller.FtcRobotController-merged_res-16:/menu/inspection_menu_rcds_local.xml",
+        "source": "com.qualcomm.ftcrobotcontroller.FtcRobotController-jetified-Inspection-8.1.1-6:/menu/inspection_menu_rcds_local.xml"
+    },
+    {
+        "merged": "com.qualcomm.ftcrobotcontroller.FtcRobotController-merged_res-16:/menu/ftc_robot_controller.xml",
+        "source": "com.qualcomm.ftcrobotcontroller.FtcRobotController-main-17:/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "com.qualcomm.ftcrobotcontroller.FtcRobotController-merged_res-16:/menu/inspection_menu_rc_remote.xml",
+        "source": "com.qualcomm.ftcrobotcontroller.FtcRobotController-jetified-Inspection-8.1.1-6:/menu/inspection_menu_rc_remote.xml"
+    }
+]
