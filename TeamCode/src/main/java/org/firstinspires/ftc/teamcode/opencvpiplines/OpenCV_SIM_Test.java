@@ -1,13 +1,16 @@
 package org.firstinspires.ftc.teamcode.opencvpiplines;
+/*
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
 import org.opencv.videoio.VideoCapture;
 import org.firstinspires.ftc.robotcore.external.Telemetry;
 import org.opencv.highgui.HighGui;
-
+*/
 public class OpenCV_SIM_Test {
+    /*
     public static void main(String[] args) {
         // Load OpenCV native library
+
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 
         opencvpipelines opencvpipeline = new opencvpipelines();
@@ -31,4 +34,5 @@ public class OpenCV_SIM_Test {
         capture.release();
         HighGui.destroyAllWindows();
     }
+    */
 }
