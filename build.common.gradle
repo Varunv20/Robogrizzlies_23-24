@@ -22,6 +22,9 @@ apply plugin: 'com.android.application'
 def useProguard = false
 
 android {
+    //trying to fix the namespace thing
+    namespace 'Robogrizzlies.MainActivity'
+
 
     compileSdkVersion 29
 
