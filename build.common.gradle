@@ -18,6 +18,8 @@
 import java.util.regex.Pattern
 
 apply plugin: 'com.android.application'
+// chaquopy apply
+apply plugin: 'com.chaquo.python'
 
 def useProguard = false
 
@@ -63,6 +65,10 @@ android {
         //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 28
         multiDexEnabled !useProguard
+        //chaquopy strikes again
+        ndk {
+            abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86','x86_64'
+        }
 
         /**
          * We keep the versionCode and versionName of robot controller applications in sync with
